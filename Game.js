@@ -6,6 +6,7 @@ $( document ).ready(function() {
         var xPos = e.clientX; 
         $('#player').css({'left':xPos*.95})
 
+
    
      }); 
      
@@ -20,7 +21,7 @@ $( document ).ready(function() {
     
     var fighter2 = document.getElementById('fighter2');
     fighter.addEventListener('click', function() {
-       replaceImage('fighter');
+       replaceImage('fighter2');
     });
      // create a variable and grab id of tie fighter
      // when div is clicked, fire off the following function:
