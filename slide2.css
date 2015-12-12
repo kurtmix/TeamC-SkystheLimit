@@ -40,3 +40,13 @@
 body { 
 	background: url(http://orig15.deviantart.net/4af7/f/2012/224/3/6/galaxy_wallpaper_by_alexandruiuilian-d5asktm.jpg) no-repeat fixed center; 
 }
+
+a {
+    position:absolute;
+    top:1%;
+    left:0;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 50;
+    font
+    
+}
