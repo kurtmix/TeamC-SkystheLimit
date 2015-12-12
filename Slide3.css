@@ -1,0 +1,36 @@
+body {
+    background-image: url("deathstartbackground.png");
+    color: Yellow;
+    font-size: 30 ;
+    font-family: "Droid Sans", arial, verdana, sans-serif; 
+    
+}
+#game-space{
+    width:100%;
+    height:100%;
+} 
+
+#player img {
+    height:200px;
+    
+}
+
+#player{
+    bottom: 0;
+    position: absolute;
+
+
+
+}
+#fighter1 img{ 
+    height:100px;
+}
+
+#fighter1 {
+    padding-left: 150px; 
+    padding-top:150px;
+} 
+
+#fighter2 img{
+    height:100px;
+} 
