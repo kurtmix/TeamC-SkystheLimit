@@ -1,6 +1,7 @@
-body{
-        background-image: url("img/victory.jpg") no-repeat center center fixed; 
-  
+html{
+        background-image: url("img/victory.jpg");
+        background-size:100%;
+        font-size:150%;
         color: yellow;
  
 }
